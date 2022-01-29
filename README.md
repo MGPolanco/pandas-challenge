@@ -1,4 +1,8 @@
 # pandas-challenge
+
+![education](https://user-images.githubusercontent.com/96347335/151670510-0863dbb3-0966-47e2-ba5f-f4a86a916eac.png)
+
+
 Option 2: PyCitySchools
 
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
